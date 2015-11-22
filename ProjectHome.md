@@ -1,0 +1,1 @@
+A twitter bot written in python using python-twitter module (>0.6)
